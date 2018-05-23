@@ -4,8 +4,13 @@
 	background-image: url(the-flatiron-building.png);
 }
 #header h1{
-	font-family: Helveteica;
+	font-family: Helvetica;
 	font-size: 70px;
+	color:white;
+}
+#header h2{
+	font-family: Helvetica;
+	font-size: 23px;
 	color:white;
 }
 .nav-button{
@@ -27,4 +32,10 @@
 .grid-item p{
 	font-family: Helvetica;
 	font-size: 14px;
+}
+.footer{
+	font-family: Helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
 }
